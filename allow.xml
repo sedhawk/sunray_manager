@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <document>
+    <nauauthz>
+      <user>
+        <name>itstaff</name>
+        <value>plg9</value>
+        <value>sf9</value>
+        <value>cwb32</value>
+        <value>bl96</value>
+        <value>dws54</value>
+      </user>
+      <user>
+        <name>itstudents</name>
+        <value>mdw76</value>
+      </user>
+      <group>
+        <name>cefnsit</name>
+        <value>cefns_it</value>
+      </group>
+      <logic>(|(cefnsit)(itstaff)(itstudents))</logic>
+    </nauauthz>
+  </document>

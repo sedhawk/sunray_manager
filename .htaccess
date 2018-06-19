@@ -1,0 +1,4 @@
+PerlAuthenHandler NAU::Apache::AuthNAUZ
+AuthType NAUZ
+PerlSetVar NAUZAuthFile /www/sites/cefns/IT/sunray/allow.xml
+require valid-user

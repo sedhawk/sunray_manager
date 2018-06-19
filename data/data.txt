@@ -1,0 +1,625 @@
+0003ba6b8a5e    Printer hp2420-69-225 69/225A it:North DTU
+0003ba6b8b88    69/225D                   noauth:Spare
+0003ba6b9aaa    Printer hp2420-69-225 69/225A it:Central DTU
+0003ba6b9aac    69/105                    general:ACM Lectern
+0003ba6b9aaf    26/102                    noweb:Math Office
+0003ba6b9ab8    Printer egrprt106 69/106  general:UNIX Lab Lectern
+0003ba6b9beb    Clint's Home              it:Clint's Home
+0003ba6b9bee    Printer hp2420-69-225 69/225A it:South DTU
+0003ba6b9bf3    Printer egrprt106 69/106  general:UNIX Lab
+0003ba6b9c20    69/225                    noauth:bad card reader
+0003bad737f5    unknown                   noauth:Unknown
+00144f0e9994    unknown                   noauth:Unknown
+00144f3c7620    Printer hp2420-69-225 69/225A it:CEFNS-IT EGR Helpdesk
+00144f488430    Printer egrprt106 69/106  general:UNIX Lab
+00144f4885d6    69/225D                   noauth:No Display
+00144f48862b    Printer egrprt106 69/106  general:UNIX Lab
+00144f488728    25/unk                    LMC Faculty Lounge
+00144f488a24    26/unk                    Don's Workshop
+00144f488a2c    Printer egrprt106 69/106  general:UNIX Lab
+00144f488a7c    Printer egrprt106 69/106  general:UNIX Lab
+00144f488f79    69/246                    general:Acker's Lab
+00144f488f86    Printer egrprt106 69/106  general:UNIX Lab
+00144f488f89    19/165                    it:CEFNS-IT BIO Helpdesk
+00144f4892e7    Printer egrprt106 69/106  general:UNIX Lab
+00144f4892f0    21/200                    general:Bio Lounge
+00144f4892fd    Printer egrprt106 69/106  general:UNIX Lab
+00144f489301    Printer egrprt106 69/106  general:UNIX Lab
+00144f4893c4    69/246                    general:Acker's Lab
+00144f4893d8    69/212                    it:Ben's Aux DTU
+00144f4893e1    Printer egrprt106 69/106  general:UNIX Lab
+00144f48946a    26/141                    noweb:Math Faculty Lounge
+00144f489473    Printer egrprt106 69/106  general:UNIX Lab
+00144f48962c    Printer egrprt106 69/106  general:UNIX Lab
+00144f578b17    Printer egrprt106 69/106  general:UNIX Lab
+00144f578b18    21/132                    general:Dean's Office Suite
+00144f578b33    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f578b37    Printer egrprt106 69/106  general:UNIX Lab
+00144f578b38    Printer hp2100-69-122s 69/122S general:EGR Front Desk
+00144f57a872    Printer egrprt106 69/106  general:UNIX Lab
+00144f57a8f4    Printer egrprt106 69/106  general:UNIX Lab
+00144f57a90c    Printer egrprt106 69/106  general:UNIX Lab
+00144f57a90d    Printer egrprt106 69/106  general:UNIX Lab
+00144f57ab42    Printer egrprt106 69/106  general:UNIX Lab
+00144f66aca8    Printer egrprt315 69/315  general:CM Lab
+00144f66afdf    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd05    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd0d    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd11    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd12    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd18    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd1b    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd29    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd32    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7ccd33    69/220                    general:General Use
+00144f7ccd3e    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd48    Printer egrprt315 69/315  general:CM Lab
+00144f7ccdbb    Printer egrprt315 69/315  general:CM Lab
+00144f7ccdfa    69/302b                   general:Temp Faculty
+00144f7cce08    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cce1f    Printer egrprt315 69/315A general:CM Admin
+00144f7ccf72    Printer egrprt315 69/315  general:CM Lab
+00144f7ccf7b    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7ccf99    Printer egrprt315 69/315  general:CM Lab
+00144f7cd056    Printer egrprt315 69/315  general:CM Lab
+00144f7cd067    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cd076    Printer egrprt315 69/315A general:CM Admin
+00144f7cd082    Printer egrprt106 69/106  general:UNIX Lab
+00144f7cd098    Printer egrprt315 69/315  general:CM Lab Lectern
+00144f7cd19a    Printer egrprt315 69/315  general:CM Lab
+00144f7cd1a7    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cd28c    Printer egrprt315 69/315  general:CM Lab
+00144f7cd439    25/unk                    LMC Faculty Lounge
+00144f7cd445    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7dca2b    69/225b                   general:Test DTU
+00144f7dcba9    19/211                    general:Physics Office Conf Room
+00144f7dcd19    19/hallway                weather:Weather Station Kiosk
+00144f7f3ebc    88/124c                   cdr:CDR
+00144f7f45e2    20/129                    general:Chem Conf Room
+00144f7f48e7    88/212                    cdr:CDR
+00144f7f48f6    88/124a                   cdr:CDR
+00144f7f492a    88/216                    cdr:CDR
+00144f7f5c73    88/204                    cdr:CDR
+00144f7f5c7c    21/118                    it:BIO Server Room
+00144f7f5c94    21/244                    general:BIO Office
+00144f7f5c97    69/246                    general:Acker's Lab
+00144f7f5cb8    88/103                    cdr:CDR
+00144f7f5f3b    unknown                   noauth:Unknown
+00144f7fb745    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fb91d    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fbc50    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fbd29    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc078    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc4f2    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc50b    69/214                    it:Clint's AUX DTU
+00144f7fc512    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc52e    69/214                    it:Darth Clint
+00144f7fc827    Printer egrprt106 69/106  general:UNIX Lab
+00144f9181db    Printer hp2420-69-225 69/225B it:EGR Server Room
+00144f9185a3    Printer egrprt106 69/106  general:UNIX Lab
+00144f94743f    Printer egrprt106 69/106  general:UNIX Lab
+00144f94756f    Printer egrprt106 69/106  general:UNIX Lab
+00144f94757f    69/105                    general:ACM Sun Ray
+00144fa7ff99    88/213                    cdr:CDR
+00144fa80d91    88/202                    cdr:CDR
+00144fa81eed    88/124c                   cdr:CDR
+00144fc30015    88/202                    cdr:CDR
+00144fc304d7    21/420                    cdr:CDR
+00144fc3064e    88/124                    cdr:CDR
+00144fc30677    21/420                    cdr:CDR
+00144fc3076f    88/124c                   cdr:CDR
+00144fc87cc4    88/124c                   cdr:CDR
+00144fe4bad7    88/204                    cdr:CDR
+00144fe4baef    88/124a                   cdr:CDR
+00144fe4baf8    88/204                    cdr:CDR
+00144fe4bfb8    88/204                    cdr:CDR
+00144fe4bfee    88/124a                   cdr:CDR
+00144fe4c089    88/204                    cdr:CDR
+00212890548e                              
+00212890636e                              
+002128906399                              
+0021289063b6                              
+0021289064eb                              
+002128906505    69/214                    it:Darth Clint
+0021289065ec                              
+0021289065f7                              
+0021289069b9                              
+0021289069d6                              
+0021289069d8                              
+0021289069e0                              
+0021289069eb                              
+0021289069f3                              
+00212890741f                              
+002128907422                              
+00212890742b                              
+002128907431                              
+00212890743f                              
+002128907440                              
+0021289074b3                              
+0021289074b5                              
+00212890766f                              
+00212890771d                              
+00212890778a                              
+002128907a8f                              
+002128907aee                              
+00212890887e                              
+00212890889b                              
+002128908fbb                              
+0021289090a5                              
+00212890923a                              
+00212890923b                              
+00212890942e                              
+002128909438                              
+080020b05d7b    69/225                    general:***Beta SRSS
+080020b593dd    69/225A                   token:CAM Token Reader
+080020c0e300    69/225a                   token:UNIX Token Reader
+080020c0e377    ABQ                       general:Brian's Test DTU
+0003ba6b8a5e    Printer hp2420-69-225 69/225A it:North DTU
+0003ba6b8b88    69/225D                   noauth:Spare
+0003ba6b9aaa    Printer hp2420-69-225 69/225A it:Central DTU
+0003ba6b9aac    69/105                    general:ACM Lectern
+0003ba6b9aaf    26/102                    noweb:Math Office
+0003ba6b9ab8    Printer egrprt106 69/106  general:UNIX Lab Lectern
+0003ba6b9beb    Clint's Home              it:Clint's Home
+0003ba6b9bee    Printer hp2420-69-225 69/225A it:South DTU
+0003ba6b9bf3    Printer egrprt106 69/106  general:UNIX Lab
+0003ba6b9c20    69/225                    noauth:bad card reader
+0003bad737f5    unknown                   noauth:Unknown
+00144f0e9994    unknown                   noauth:Unknown
+00144f3c7620    Printer hp2420-69-225 69/225A it:CEFNS-IT EGR Helpdesk
+00144f488430    Printer egrprt106 69/106  general:UNIX Lab
+00144f4885d6    69/225D                   noauth:No Display
+00144f48862b    Printer egrprt106 69/106  general:UNIX Lab
+00144f488728    25/unk                    LMC Faculty Lounge
+00144f488a24    26/unk                    Don's Workshop
+00144f488a2c    Printer egrprt106 69/106  general:UNIX Lab
+00144f488a7c    Printer egrprt106 69/106  general:UNIX Lab
+00144f488f79    69/246                    general:Acker's Lab
+00144f488f86    Printer egrprt106 69/106  general:UNIX Lab
+00144f488f89    19/165                    it:CEFNS-IT BIO Helpdesk
+00144f4892e7    Printer egrprt106 69/106  general:UNIX Lab
+00144f4892f0    21/200                    general:Bio Lounge
+00144f4892fd    Printer egrprt106 69/106  general:UNIX Lab
+00144f489301    Printer egrprt106 69/106  general:UNIX Lab
+00144f4893c4    69/246                    general:Acker's Lab
+00144f4893d8    69/212                    it:Ben's Aux DTU
+00144f4893e1    Printer egrprt106 69/106  general:UNIX Lab
+00144f48946a    26/141                    noweb:Math Faculty Lounge
+00144f489473    Printer egrprt106 69/106  general:UNIX Lab
+00144f48962c    Printer egrprt106 69/106  general:UNIX Lab
+00144f578b17    Printer egrprt106 69/106  general:UNIX Lab
+00144f578b18    21/132                    general:Dean's Office Suite
+00144f578b33    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f578b37    Printer egrprt106 69/106  general:UNIX Lab
+00144f578b38    Printer hp2100-69-122s 69/122S general:EGR Front Desk
+00144f57a872    Printer egrprt106 69/106  general:UNIX Lab
+00144f57a8f4    Printer egrprt106 69/106  general:UNIX Lab
+00144f57a90c    Printer egrprt106 69/106  general:UNIX Lab
+00144f57a90d    Printer egrprt106 69/106  general:UNIX Lab
+00144f57ab42    Printer egrprt106 69/106  general:UNIX Lab
+00144f66aca8    Printer egrprt315 69/315  general:CM Lab
+00144f66afdf    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd05    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd0d    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd11    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd12    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd18    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd1b    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd29    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd32    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7ccd33    69/220                    general:General Use
+00144f7ccd3e    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd48    Printer egrprt315 69/315  general:CM Lab
+00144f7ccdbb    Printer egrprt315 69/315  general:CM Lab
+00144f7ccdfa    69/302b                   general:Temp Faculty
+00144f7cce08    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cce1f    Printer egrprt315 69/315A general:CM Admin
+00144f7ccf72    Printer egrprt315 69/315  general:CM Lab
+00144f7ccf7b    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7ccf99    Printer egrprt315 69/315  general:CM Lab
+00144f7cd056    Printer egrprt315 69/315  general:CM Lab
+00144f7cd067    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cd076    Printer egrprt315 69/315A general:CM Admin
+00144f7cd082    Printer egrprt106 69/106  general:UNIX Lab
+00144f7cd098    Printer egrprt315 69/315  general:CM Lab Lectern
+00144f7cd19a    Printer egrprt315 69/315  general:CM Lab
+00144f7cd1a7    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cd28c    Printer egrprt315 69/315  general:CM Lab
+00144f7cd439    25/unk                    LMC Faculty Lounge
+00144f7cd445    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7dca2b    69/225b                   general:Test DTU
+00144f7dcba9    19/211                    general:Physics Office Conf Room
+00144f7dcd19    19/hallway                weather:Weather Station Kiosk
+00144f7f3ebc    88/124c                   cdr:CDR
+00144f7f45e2    20/129                    general:Chem Conf Room
+00144f7f48e7    88/212                    cdr:CDR
+00144f7f48f6    88/124a                   cdr:CDR
+00144f7f492a    88/216                    cdr:CDR
+00144f7f5c73    88/204                    cdr:CDR
+00144f7f5c7c    21/118                    it:BIO Server Room
+00144f7f5c94    21/244                    general:BIO Office
+00144f7f5c97    69/246                    general:Acker's Lab
+00144f7f5cb8    88/103                    cdr:CDR
+00144f7f5f3b    unknown                   noauth:Unknown
+00144f7fb745    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fb91d    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fbc50    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fbd29    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc078    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc4f2    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc50b    69/214                    it:Clint's AUX DTU
+00144f7fc512    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc52e    69/214                    it:Darth Clint
+00144f7fc827    Printer egrprt106 69/106  general:UNIX Lab
+00144f9181db    Printer hp2420-69-225 69/225B it:EGR Server Room
+00144f9185a3    Printer egrprt106 69/106  general:UNIX Lab
+00144f94743f    Printer egrprt106 69/106  general:UNIX Lab
+00144f94756f    Printer egrprt106 69/106  general:UNIX Lab
+00144f94757f    69/105                    general:ACM Sun Ray
+00144fa7ff99    88/213                    cdr:CDR
+00144fa80d91    88/202                    cdr:CDR
+00144fa81eed    88/124c                   cdr:CDR
+00144fc30015    88/202                    cdr:CDR
+00144fc304d7    21/420                    cdr:CDR
+00144fc3064e    88/124                    cdr:CDR
+00144fc30677    21/420                    cdr:CDR
+00144fc3076f    88/124c                   cdr:CDR
+00144fc87cc4    88/124c                   cdr:CDR
+00144fe4bad7    88/204                    cdr:CDR
+00144fe4baef    88/124a                   cdr:CDR
+00144fe4baf8    88/204                    cdr:CDR
+00144fe4bfb8    88/204                    cdr:CDR
+00144fe4bfee    88/124a                   cdr:CDR
+00144fe4c089    88/204                    cdr:CDR
+00212890548e                              
+00212890636e                              
+002128906399                              
+0021289063b6                              
+0021289064eb                              
+002128906505    69/214                    it:Darth Clint
+0021289065ec                              
+0021289065f7                              
+0021289069b9                              
+0021289069d6                              
+0021289069d8                              
+0021289069e0                              
+0021289069eb                              
+0021289069f3                              
+00212890741f                              
+002128907422                              
+00212890742b                              
+002128907431                              
+00212890743f                              
+002128907440                              
+0021289074b3                              
+0021289074b5                              
+00212890766f                              
+00212890771d                              
+00212890778a                              
+002128907a8f                              
+002128907aee                              
+00212890887e                              
+00212890889b                              
+002128908fbb                              
+0021289090a5                              
+00212890923a                              
+00212890923b                              
+00212890942e                              
+002128909438                              
+080020b05d7b    69/225                    general:***Beta SRSS
+080020b593dd    69/225A                   token:CAM Token Reader
+080020c0e300    69/225a                   token:UNIX Token Reader
+080020c0e377    ABQ                       general:Brian's Test DTU
+0003ba6b8a5e    Printer hp2420-69-225 69/225A it:North DTU
+0003ba6b8b88    69/225D                   noauth:Spare
+0003ba6b9aaa    Printer hp2420-69-225 69/225A it:Central DTU
+0003ba6b9aac    69/105                    general:ACM Lectern
+0003ba6b9aaf    26/102                    noweb:Math Office
+0003ba6b9ab8    Printer egrprt106 69/106  general:UNIX Lab Lectern
+0003ba6b9beb    Clint's Home              it:Clint's Home
+0003ba6b9bee    Printer hp2420-69-225 69/225A it:South DTU
+0003ba6b9bf3    Printer egrprt106 69/106  general:UNIX Lab
+0003ba6b9c20    69/225                    noauth:bad card reader
+0003bad737f5    unknown                   noauth:Unknown
+00144f0e9994    unknown                   noauth:Unknown
+00144f3c7620    Printer hp2420-69-225 69/225A it:CEFNS-IT EGR Helpdesk
+00144f488430    Printer egrprt106 69/106  general:UNIX Lab
+00144f4885d6    69/225D                   noauth:No Display
+00144f48862b    Printer egrprt106 69/106  general:UNIX Lab
+00144f488728    25/unk                    LMC Faculty Lounge
+00144f488a24    26/unk                    Don's Workshop
+00144f488a2c    Printer egrprt106 69/106  general:UNIX Lab
+00144f488a7c    Printer egrprt106 69/106  general:UNIX Lab
+00144f488f79    69/246                    general:Acker's Lab
+00144f488f86    Printer egrprt106 69/106  general:UNIX Lab
+00144f488f89    19/165                    it:CEFNS-IT BIO Helpdesk
+00144f4892e7    Printer egrprt106 69/106  general:UNIX Lab
+00144f4892f0    21/200                    general:Bio Lounge
+00144f4892fd    Printer egrprt106 69/106  general:UNIX Lab
+00144f489301    Printer egrprt106 69/106  general:UNIX Lab
+00144f4893c4    69/246                    general:Acker's Lab
+00144f4893d8    69/212                    it:Ben's Aux DTU
+00144f4893e1    Printer egrprt106 69/106  general:UNIX Lab
+00144f48946a    26/141                    noweb:Math Faculty Lounge
+00144f489473    Printer egrprt106 69/106  general:UNIX Lab
+00144f48962c    Printer egrprt106 69/106  general:UNIX Lab
+00144f578b17    Printer egrprt106 69/106  general:UNIX Lab
+00144f578b18    21/132                    general:Dean's Office Suite
+00144f578b33    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f578b37    Printer egrprt106 69/106  general:UNIX Lab
+00144f578b38    Printer hp2100-69-122s 69/122S general:EGR Front Desk
+00144f57a872    Printer egrprt106 69/106  general:UNIX Lab
+00144f57a8f4    Printer egrprt106 69/106  general:UNIX Lab
+00144f57a90c    Printer egrprt106 69/106  general:UNIX Lab
+00144f57a90d    Printer egrprt106 69/106  general:UNIX Lab
+00144f57ab42    Printer egrprt106 69/106  general:UNIX Lab
+00144f66aca8    Printer egrprt315 69/315  general:CM Lab
+00144f66afdf    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd05    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd0d    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd11    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd12    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd18    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd1b    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd29    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd32    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7ccd33    69/220                    general:General Use
+00144f7ccd3e    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd48    Printer egrprt315 69/315  general:CM Lab
+00144f7ccdbb    Printer egrprt315 69/315  general:CM Lab
+00144f7ccdfa    69/302b                   general:Temp Faculty
+00144f7cce08    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cce1f    Printer egrprt315 69/315A general:CM Admin
+00144f7ccf72    Printer egrprt315 69/315  general:CM Lab
+00144f7ccf7b    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7ccf99    Printer egrprt315 69/315  general:CM Lab
+00144f7cd056    Printer egrprt315 69/315  general:CM Lab
+00144f7cd067    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cd076    Printer egrprt315 69/315A general:CM Admin
+00144f7cd082    Printer egrprt106 69/106  general:UNIX Lab
+00144f7cd098    Printer egrprt315 69/315  general:CM Lab Lectern
+00144f7cd19a    Printer egrprt315 69/315  general:CM Lab
+00144f7cd1a7    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cd28c    Printer egrprt315 69/315  general:CM Lab
+00144f7cd439    25/unk                    LMC Faculty Lounge
+00144f7cd445    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7dca2b    69/225b                   general:Test DTU
+00144f7dcba9    19/211                    general:Physics Office Conf Room
+00144f7dcd19    19/hallway                weather:Weather Station Kiosk
+00144f7f3ebc    88/124c                   cdr:CDR
+00144f7f45e2    20/129                    general:Chem Conf Room
+00144f7f48e7    88/212                    cdr:CDR
+00144f7f48f6    88/124a                   cdr:CDR
+00144f7f492a    88/216                    cdr:CDR
+00144f7f5c73    88/204                    cdr:CDR
+00144f7f5c7c    21/118                    it:BIO Server Room
+00144f7f5c94    21/244                    general:BIO Office
+00144f7f5c97    69/246                    general:Acker's Lab
+00144f7f5cb8    88/103                    cdr:CDR
+00144f7f5f3b    unknown                   noauth:Unknown
+00144f7fb745    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fb91d    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fbc50    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fbd29    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc078    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc4f2    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc50b    69/214                    it:Clint's AUX DTU
+00144f7fc512    Printer egrprt106 69/106  general:UNIX Lab
+00144f7fc52e    69/214                    it:Darth Clint
+00144f7fc827    Printer egrprt106 69/106  general:UNIX Lab
+00144f9181db    Printer hp2420-69-225 69/225B it:EGR Server Room
+00144f9185a3    Printer egrprt106 69/106  general:UNIX Lab
+00144f94743f    Printer egrprt106 69/106  general:UNIX Lab
+00144f94756f    Printer egrprt106 69/106  general:UNIX Lab
+00144f94757f    69/105                    general:ACM Sun Ray
+00144fa7ff99    88/213                    cdr:CDR
+00144fa80d91    88/202                    cdr:CDR
+00144fa81eed    88/124c                   cdr:CDR
+00144fc30015    88/202                    cdr:CDR
+00144fc304d7    21/420                    cdr:CDR
+00144fc3064e    88/124                    cdr:CDR
+00144fc30677    21/420                    cdr:CDR
+00144fc3076f    88/124c                   cdr:CDR
+00144fc87cc4    88/124c                   cdr:CDR
+00144fe4bad7    88/204                    cdr:CDR
+00144fe4baef    88/124a                   cdr:CDR
+00144fe4baf8    88/204                    cdr:CDR
+00144fe4bfb8    88/204                    cdr:CDR
+00144fe4bfee    88/124a                   cdr:CDR
+00144fe4c089    88/204                    cdr:CDR
+00212890548e                              
+00212890636e                              
+002128906399                              
+0021289063b6                              
+0021289064eb                              
+002128906505    69/214                    it:Darth Clint
+0021289065ec                              
+0021289065f7                              
+0021289069b9                              
+0021289069d6                              
+0021289069d8                              
+0021289069e0                              
+0021289069eb                              
+0021289069f3                              
+00212890741f                              
+002128907422                              
+00212890742b                              
+002128907431                              
+00212890743f                              
+002128907440                              
+0021289074b3                              
+0021289074b5                              
+00212890766f                              
+00212890771d                              
+00212890778a                              
+002128907a8f                              
+002128907aee                              
+00212890887e                              
+00212890889b                              
+002128908fbb                              
+0021289090a5                              
+00212890923a                              
+00212890923b                              
+00212890942e                              
+002128909438                              
+080020b05d7b    69/225                    general:***Beta SRSS
+080020b593dd    69/225A                   token:CAM Token Reader
+080020c0e300    69/225a                   token:UNIX Token Reader
+080020c0e377    ABQ                       general:Brian's Test DTU
+0003ba6b8a5e    Printer hp2420-69-225 69/225A it:North DTU
+0003ba6b8b88    69/225D                   noauth:Spare
+0003ba6b9aaa    Printer hp2420-69-225 69/225A it:Central DTU
+0003ba6b9aac    69/105                    general:ACM Lectern
+0003ba6b9aaf    26/170                    unused
+0003ba6b9ab8    Printer egrprt106 69/106  general:UNIX Lab Lectern
+0003ba6b9beb    Clint's Home              it:Clint's Home
+0003ba6b9bee    88/124a                   general:Wettaw
+0003ba6b9c20    69/225                    noauth:bad card reader
+0003bad737f5    unknown                   noauth:Unknown
+00144f0e9994    unknown                   noauth:Unknown
+00144f3c7620    69/122                    general:Front Desk
+00144f4885d6    69/225D                   noauth:No Display
+00144f48862b    17/312c                   gage:gagelab
+00144f488728    25/unk                    LMC Faculty Lounge
+00144f488a24    26/211                    Don's Workshop
+00144f488a2c                              
+00144f488f79    69/246                    general:Acker's Lab
+00144f488f86    69/122G                   general:Front Desk Temp
+00144f488f89    26/116                    general:Math Library
+00144f4892f0    21/200                    general:Bio Lounge
+00144f489301    69/301                    egr386w
+00144f4893c4    69/225                    it:CEFNS-IT EGR Helpdesk
+00144f4893d8    69/212                    it:Ben's Aux DTU
+00144f4893e1    17/313c                   gage:gagelab
+00144f48946a    26/141                    noweb:Math Faculty Lounge
+00144f578b17    17/312c                   gage:gagelab
+00144f578b18    21/132                    general:Dean's Office Suite
+00144f578b33    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f578b37    26/143                    general:Math
+00144f578b38    69/210                    it:Pete's Office
+00144f57a8f4    26/170                    noweb:Math Office
+00144f57a90c                              
+00144f66aca8    Printer egrprt315 69/315  general:CM Lab
+00144f66afdf    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd05    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd0d    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd11    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd12    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd18    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd1b    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd29    Printer egrprt315 69/315  general:CM Lab
+00144f7ccd32    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7ccd33    69/220                    general:General Use
+00144f7ccd3e    69/208                    69/208
+00144f7ccd48    Printer egrprt315 69/315  general:CM Lab
+00144f7ccdbb    Printer egrprt315 69/315  general:CM Lab
+00144f7ccdfa    69/302b                   general:Temp Faculty
+00144f7cce08    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cce1f    Printer egrprt315 69/315A general:CM Admin
+00144f7ccf72    Printer egrprt315 69/315  general:CM Lab
+00144f7ccf7b    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7ccf99    Printer egrprt315 69/315  general:CM Lab
+00144f7cd056    Printer egrprt315 69/315  general:CM Lab
+00144f7cd067    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cd076    Printer egrprt315 69/315A general:CM Admin
+00144f7cd082    Printer egrprt315 69/315  general:CM Lab
+00144f7cd098    Printer egrprt315 69/315  general:CM Lab Lectern
+00144f7cd19a    Printer egrprt315 69/315  general:CM Lab
+00144f7cd1a7    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7cd28c    Printer egrprt315 69/315  general:CM Lab
+00144f7cd439    25/unk                    LMC Faculty Lounge
+00144f7cd445    Printer egrprt100ab 69/100A general:Internet Cafe
+00144f7dca2b    69/225b                   general:Test DTU
+00144f7dcba9    20/310                    chem lab
+00144f7dcd19    19/hallway                weather:Weather Station Kiosk
+00144f7f3ebc    88/124c                   cdr:CDR
+00144f7f45e2    20/130                    general:Chemistry
+00144f7f48e7    88/212                    cdr:CDR
+00144f7f48f6    88/124a                   cdr:CDR
+00144f7f492a    88/216                    cdr:CDR
+00144f7f5c73    88/204                    cdr:CDR
+00144f7f5c7c    unk/unk                   
+00144f7f5c94    19/119                    general:Environmental Programs
+00144f7f5c97    25/4113                   general
+00144f7f5cb8    88/103                    cdr:CDR
+00144f7fb745                              
+00144f7fb91d    17/313c                   gage:gagelab
+00144f7fbc50    Printer egrprt315 69/315  general:CM Lab
+00144f7fbd29    69/225b                   weather:Weather Station Test Kiosk
+00144f7fc078                              
+00144f7fc4f2    26/143                    general:Math
+00144f7fc50b    69/214                    it:Clint's AUX DTU
+00144f7fc512    17/312c                   gage:gagelab
+00144f7fc52e    69/214                    it:Darth Clint
+00144f7fc827    17/313c                   gage:gagelab
+00144f9181db    Printer hp2420-69-225 69/225B it:EGR Server Room
+00144f9185a3    17/312c                   gage:gagelab
+00144f94743f                              unused:bad audio
+00144f94756f    26/143                    general:Math
+00144f94757f    69/252                    general:office
+00144fa7ff99    88/213                    cdr:CDR
+00144fa80d91    88/202                    cdr:CDR
+00144fa81eed    88/207                    general
+00144fc30015    88/202                    cdr:CDR
+00144fc304d7    21/420                    cdr:CDR
+00144fc3064e    88/124                    cdr:CDR
+00144fc30677    21/420                    cdr:CDR
+00144fc3076f    88/124c                   cdr:CDR
+00144fc87cc4    88/124c                   cdr:CDR
+00144fe4bad7    88/204                    cdr:CDR
+00144fe4baef    88/124a                   cdr:CDR
+00144fe4baf8    88/204                    cdr:CDR
+00144fe4bfb8    88/204                    cdr:CDR
+00144fe4bfee    88/124a                   cdr:CDR
+00144fe4c089    88/204                    cdr:CDR
+00212890548e                              
+00212890636e    Printer egrprt106 69/106  general:UNIX Lab
+002128906399    21/118                    it:BIO Server Room
+0021289063b6    Printer egrprt106 69/106  general:UNIX Lab
+0021289064eb    Printer egrprt106 69/106  general:UNIX Lab
+002128906505    69/214                    it:Darth Clint
+0021289065ec    Printer egrprt106 69/106  general:UNIX Lab
+0021289065f7    Printer egrprt106 69/106  general:UNIX Lab
+0021289069a2    88/124                    general:Wettaw
+0021289069b8    88/124                    general:Wettaw
+0021289069b9    Printer egrprt106 69/106  general:UNIX Lab
+0021289069c6    88/126                    general:Wettaw
+0021289069cf    88/124                    general:Wettaw
+0021289069d6    Printer egrprt106 69/106  general:UNIX Lab
+0021289069d8    Printer egrprt106 69/106  general:UNIX Lab
+0021289069e0    Printer egrprt106 69/106  general:UNIX Lab
+0021289069e7    88/126                    general:Wettaw
+0021289069eb    Printer egrprt106 69/106  general:UNIX Lab
+0021289069f0    88/124                    general:Wettaw
+0021289069f3    Printer egrprt106 69/106  general:UNIX Lab
+002128906d78                              
+00212890741f    Printer egrprt106 69/106  general:UNIX Lab
+002128907422    Printer egrprt106 69/106  general:UNIX Lab
+00212890742b    Printer egrprt106 69/106  general:UNIX Lab
+002128907431    Printer egrprt106 69/106  general:UNIX Lab
+002128907433    88/124                    general:Wettaw
+00212890743f    Printer egrprt106 69/106  general:UNIX Lab
+002128907440    Printer egrprt106 69/106  general:UNIX Lab
+002128907487    88/124                    general:Wettaw
+0021289074a8    88/126                    general:Wettaw
+0021289074b3    Printer egrprt106 69/106  general:UNIX Lab
+0021289074b5    Printer egrprt106 69/106  general:UNIX Lab
+00212890766f    Printer egrprt106 69/106  general:UNIX Lab
+00212890771d    Printer egrprt106 69/106  general:UNIX Lab
+00212890778a    Printer egrprt106 69/106  general:UNIX Lab
+002128907a4c    88/126                    general:Wettaw
+002128907a8f    Printer egrprt106 69/106  general:UNIX Lab
+002128907aee    Printer egrprt106 69/106  general:UNIX Lab
+002128907b99    88/126                    general:Wettaw
+002128907c49    88/126                    general:Wettaw
+00212890887e    Printer egrprt106 69/106  general:UNIX Lab
+00212890889b    Printer egrprt106 69/106  general:UNIX Lab
+002128908fbb    Printer egrprt106 69/106  general:UNIX Lab
+0021289090a5    Printer egrprt106 69/106  general:UNIX Lab
+00212890923a    Printer egrprt106 69/106  general:UNIX Lab
+00212890923b    Printer egrprt106 69/106  general:UNIX Lab
+00212890942e    Printer egrprt106 69/106  general:UNIX Lab
+002128909438    Printer egrprt106 69/106  general:UNIX Lab
+080020b05d7b    69/225                    general:***Beta SRSS
+080020b593dd    69/225A                   token:CAM Token Reader
+080020c0e300    69/225a                   token:UNIX Token Reader

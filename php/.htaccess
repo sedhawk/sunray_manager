@@ -1,0 +1,6 @@
+<FilesMatch "^(index|sunray).php$">
+	PerlAuthenHandler NAU::Apache::AuthNAUZ
+	AuthType NAUZ
+	require valid-user
+</FilesMatch>
+

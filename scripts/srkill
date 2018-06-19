@@ -1,0 +1,89 @@
+#!/bin/sh
+
+# Uncomment if host written to file in srinfo
+#host_file="/tmp/srhost"     # Temporary file to save hostname.
+#if [ -e $host_file ]; then  
+#  rm "$host_file"           # Ensure host not defined before script is run.
+#fi
+
+if [ -z $1 ]; then  # Require MAC Address passed as argument.
+  echo "srkill requires MAC Address as argument."
+  exit 2
+fi
+id=$1
+
+info=`/www/sites/cefns/IT/sunray/scripts/srinfo $id`  # Run info script for MAC Address
+retinfo=$?
+if [ "$retinfo" -ne 0 ]; then
+  echo "srinfo: $info"
+  exit $retinfo
+fi
+if [ -z "$info" ]; then
+  echo "No info on host $id."
+  exit 1
+fi
+# Uncomment if host written to file in srinfo
+#if [ -e $host_file ]; then
+#  host=`cat "$host_file"`
+#  rm "$host_file"
+#else
+#  print "Unknown host."
+#  exit 1
+#fi
+
+host=`echo "$info" | awk '{ print $1 }'`  # Parse display number from info.
+if [ -z "$host" ]; then
+  echo "Can not find host in $info."
+  exit 1
+fi
+
+# Killing by token ID, do not need display.
+#disp=`echo "$info" | awk '{ print $5 }'`  # Parse display number from info.
+##disp=`echo "$info" | awk '{ print $4 }'`  # use if host in file.
+#if [ -z "$disp" ]; then
+#  echo "Can not find display in $info."
+#  exit 1
+#fi
+
+token=`echo "$info" | awk '{ print $2 }'`  # Parse token from info
+#token=`echo "$info" | awk '{ print $1 }'` # use if host not in info.
+if [ -z "$token" ]; then
+  echo "Can not find token in $info."
+  exit 1
+elif [ "$token" != "pseudo.$id" ]; then
+  echo "Expected token mismatch. 'Found $token'."
+  exit 1
+fi
+
+cam=("iego" "rishi")
+login=("dantooine" "tatooine" "corellia")
+if [[ "$(declare -p login)" =~ "$host" ]]; then
+  retmsg="`ssh -o BatchMode=yes root@$host \"utload -r -t $token\" 2>&1`"
+  retcode=$?
+  if [ "$retcode" -eq 0 ]; then
+    echo "Killed $id on $host."
+    exit 0
+  elif [ "$retcode" -eq 255 ]; then
+    echo "Failed to connect to $host. Check ssh keys."
+    exit 1
+  else
+    echo "Failed to kill session on $host: $retmsg"
+    exit 1
+  fi
+elif [[ "$(declare -p cam)" =~ "$host" ]]; then
+  retmsg="`ssh -o BatchMode=yes root@$host \"utsession -k -t $token\" 2>&1`"
+  retcode=$?
+  if [ "$retcode" -eq 0 ]; then
+    echo "Killed $id on $host."
+    exit 0
+  elif [ "$retcode" -eq 255 ]; then
+    echo "Failed to connect to $host. Check ssh keys."
+    exit 1
+  else
+    echo "Failed to kill session on $host: $retmsg"
+    exit 1
+  fi
+else
+  echo "Unrecognized host $host. No action taken."
+  exit 1
+fi

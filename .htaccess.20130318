@@ -1,0 +1,6 @@
+<Files index.php>
+	PerlAuthenHandler NAU::Apache::AuthNAUZ
+	AuthType NAUZ
+	require valid-user
+</Files>
+
