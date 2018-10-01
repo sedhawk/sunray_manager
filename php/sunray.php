@@ -99,7 +99,7 @@ function WriteTable ($lookup, $query = "*"){
 
 function makeTable($que, $statFilter = false){
 	// Connecting, selecting database
-	/*$link = mysql_connect("mysql.cefns.nau.edu", "utdesktop", '$uNrayguns')
+	/*$link = mysql_connect("mysql.cefns.nau.edu", "utdesktop", 'YOURPASSWORD')
 		or die('This is not the server you are looking for: ' . mysql_error());
 	//echo 'Connected successfully';
 	mysql_select_db('utdesktop') or die('Could not select database');
